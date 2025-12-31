@@ -167,7 +167,7 @@ function displayQuestion(question) {
     // Update question text with animation
     elements.questionText.style.opacity = '0';
     setTimeout(() => {
-        elements.questionText.textContent = question.text;
+        elements.questionText.textContent = `${question.id}. ${question.text}`;
         elements.questionText.style.transition = 'opacity 0.5s ease-in';
         elements.questionText.style.opacity = '1';
     }, 100);
@@ -210,7 +210,7 @@ function createAnswerElement(answer) {
 
     const span = document.createElement('span');
     span.className = 'text-gray-800 font-medium select-none flex-1';
-    span.textContent = answer.text;
+    span.textContent = `${answer.id}) ${answer.text}`;
 
     label.appendChild(checkbox);
     label.appendChild(span);
@@ -307,7 +307,7 @@ function highlightAnswers(checkboxes) {
         setTimeout(() => {
             if (isCorrect) {
                 // Correct answers get vibrant green gradient
-                answerDiv.className = 'answer-item bg-gradient-to-r from-green-400 to-emerald-500 p-4 rounded-xl transition-all duration-300 cursor-pointer border-2 border-green-600 shadow-lg transform scale-105';
+                answerDiv.className = 'answer-item bg-gradient-to-r from-green-400 to-emerald-500 p-4 rounded-xl transition-all duration-300 cursor-pointer border-2 border-green-600 shadow-lg';
                 answerDiv.querySelector('span').className = 'text-white font-bold select-none flex-1';
                 answerDiv.querySelector('input').className = 'mt-1 mr-3 h-5 w-5 cursor-pointer';
             } else if (isChecked) {
@@ -331,16 +331,16 @@ function showResult(isCorrect) {
         elements.resultMessage.style.opacity = '0';
 
         if (isCorrect) {
-            elements.resultMessage.className = 'mb-6 p-5 rounded-xl font-bold text-center text-lg shadow-lg bg-gradient-to-r from-green-400 to-emerald-500 text-white border-2 border-green-600';
+            elements.resultMessage.className = 'mb-6 p-4 rounded-xl font-bold text-center text-base shadow-lg bg-gradient-to-r from-green-400 to-emerald-500 text-white border-2 border-green-600 max-w-xl mx-auto';
             elements.resultMessage.innerHTML = `
-                <span class="text-3xl">🎉</span>
+                <span class="text-2xl">🎉</span>
                 <span class="ml-2">Správne! Výborne!</span>
-                <span class="text-3xl ml-2">✓</span>
+                <span class="text-2xl ml-2">✓</span>
             `;
         } else {
-            elements.resultMessage.className = 'mb-6 p-5 rounded-xl font-bold text-center text-lg shadow-lg bg-gradient-to-r from-orange-400 to-red-500 text-white border-2 border-red-600';
+            elements.resultMessage.className = 'mb-6 p-4 rounded-xl font-bold text-center text-base shadow-lg bg-gradient-to-r from-orange-400 to-red-500 text-white border-2 border-red-600 max-w-xl mx-auto';
             elements.resultMessage.innerHTML = `
-                <span class="text-3xl">💡</span>
+                <span class="text-2xl">💡</span>
                 <span class="ml-2">Nesprávne. Správne odpovede sú zvýraznené zelenou.</span>
             `;
         }

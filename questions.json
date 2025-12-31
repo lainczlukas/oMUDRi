@@ -2,962 +2,7495 @@
   "categories": [
     {
       "id": 1,
-      "name": "Anatómia"
+      "name": "Biológia bunky, rastlín a živočíchov"
     },
     {
       "id": 2,
-      "name": "Fyziológia"
+      "name": "Biológia človeka"
     },
     {
       "id": 3,
-      "name": "Biochémia"
+      "name": "Genetika"
     },
     {
       "id": 4,
-      "name": "Farmakológia"
+      "name": "Systém rastlín a živočíchov"
     },
     {
       "id": 5,
-      "name": "Patológia"
+      "name": "Ekológia a evolúcia"
     }
   ],
   "questions": [
     {
       "id": 1,
-      "text": "Ktoré z nasledujúcich štruktúr sú súčasťou ľudského mozgu?",
+      "text": "Prokaryotická bunka:",
       "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Cerebrum (veľký mozog)",
+          "id": "a",
+          "text": "môže obsahovať tylakoidy",
           "isCorrect": true
         },
         {
-          "id": 2,
-          "text": "Cerebellum (malý mozog)",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "Pečeň",
+          "id": "b",
+          "text": "môže obsahovať chloroplasty, napr. sinice",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Predĺžená miecha",
+          "id": "c",
+          "text": "obsahuje prokaryotické ribozómy",
           "isCorrect": true
         },
         {
-          "id": 5,
-          "text": "Obličky",
+          "id": "d",
+          "text": "má cytoplazmatickú membránu",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "má nukleoid",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "má lineárne molekuly DNA uložené v cytoplazme",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Pons (Most)",
-          "isCorrect": true
-        },
-        {
-          "id": 7,
-          "text": "Slezina",
+          "id": "g",
+          "text": "má vnútorný priestor rozčlenený membránami na štruktúrne a funkčné celky",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Talamus",
-          "isCorrect": true
+          "id": "h",
+          "text": "má homologické kruhové chromozómy uložené voľne v cytoplazme",
+          "isCorrect": false
         }
       ]
     },
     {
       "id": 2,
-      "text": "Ktoré kosti sú súčasťou lebečnej klenby?",
+      "text": "Prokaryotické bunky nemajú:",
       "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Čelová kosť",
+          "id": "a",
+          "text": "plastidy",
           "isCorrect": true
         },
         {
-          "id": 2,
-          "text": "Temenná kosť",
+          "id": "b",
+          "text": "vnútorný priestor rozčlenený membránami na štruktúrne a funkčné celky",
           "isCorrect": true
         },
         {
-          "id": 3,
-          "text": "Stehnová kosť",
+          "id": "c",
+          "text": "ribozómy",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Týlna kosť",
+          "id": "d",
+          "text": "diktyozómy",
           "isCorrect": true
         },
         {
-          "id": 5,
-          "text": "Ramenná kosť",
+          "id": "e",
+          "text": "cytoplazmatickú membránu",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Spánková kosť",
+          "id": "f",
+          "text": "centriol",
           "isCorrect": true
         },
         {
-          "id": 7,
-          "text": "Píšťala",
-          "isCorrect": false
+          "id": "g",
+          "text": "jadierko",
+          "isCorrect": true
         },
         {
-          "id": 8,
-          "text": "Vretenná kosť",
-          "isCorrect": false
+          "id": "h",
+          "text": "mitochondrie",
+          "isCorrect": true
         }
       ]
     },
     {
       "id": 3,
-      "text": "Ktoré štruktúry patria do tráviaceho systému?",
+      "text": "Ktoré štruktúry prokaryotickej bunky sú zodpovedné za uvoľňovanie energie:",
       "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Pažerák",
-          "isCorrect": true
-        },
-        {
-          "id": 2,
-          "text": "Žalúdok",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "Priedušnica",
+          "id": "a",
+          "text": "tylakoidy",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Tenké črevo",
-          "isCorrect": true
-        },
-        {
-          "id": 5,
-          "text": "Priedušky",
+          "id": "b",
+          "text": "bičíky",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Podžalúdková žľaza",
-          "isCorrect": true
-        },
-        {
-          "id": 7,
-          "text": "Pľúcne mechúriky",
+          "id": "c",
+          "text": "ribozómy",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Močovod",
+          "id": "d",
+          "text": "mitochondrie",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "plazmatická membrána",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "jadro",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "diktyozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "vakuoly",
           "isCorrect": false
         }
       ]
     },
     {
       "id": 4,
-      "text": "Ktoré štruktúry sú súčasťou prevodového systému srdca?",
+      "text": "Cytológia sa zaoberá štúdiom:",
       "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Sinoatriálny uzol (SA uzol)",
-          "isCorrect": true
-        },
-        {
-          "id": 2,
-          "text": "Atrioventrikulárny uzol (AV uzol)",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "Štítna žľaza",
+          "id": "a",
+          "text": "živých sústav na úrovni molekúl",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Hisov zväzok",
-          "isCorrect": true
-        },
-        {
-          "id": 5,
-          "text": "Drene nadobličiek",
+          "id": "b",
+          "text": "mikroskopickej stavby živočíšnych tkanív",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Purkyňove vlákna",
+          "id": "c",
+          "text": "javov na úrovni bunky",
           "isCorrect": true
         },
         {
-          "id": 7,
-          "text": "Hypofýza",
+          "id": "d",
+          "text": "živých mikroorganizmov",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Epifýza",
+          "id": "e",
+          "text": "živých sústav na úrovni ich základnej štrukturálnej a funkčnej jednotky",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "vírusov",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "tvaru a štruktúry buniek a bunkových organel",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "makromolekulových látok",
           "isCorrect": false
         }
       ]
     },
     {
       "id": 5,
-      "text": "Ktoré fyziologické procesy prebiehajú počas aeróbneho dýchania?",
-      "categoryId": 2,
+      "text": "Za najmneší systém schopný samostatného života sa považuje:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Glykolýza",
-          "isCorrect": true
-        },
-        {
-          "id": 2,
-          "text": "Krebsov cyklus",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "Proteosyntéza",
+          "id": "a",
+          "text": "vírus",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Dýchací reťazec",
+          "id": "b",
+          "text": "bunka",
           "isCorrect": true
         },
         {
-          "id": 5,
-          "text": "Replikácia DNA",
+          "id": "c",
+          "text": "kolónia",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Oxidatívna fosforylácia",
-          "isCorrect": true
-        },
-        {
-          "id": 7,
-          "text": "Bunkové delenie",
+          "id": "d",
+          "text": "biopolymér",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Fagocytóza",
+          "id": "e",
+          "text": "mnohobunkový organizmus",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "populácia",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "nukleoproteínová častica",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "individuum vyššieho rádu",
           "isCorrect": false
         }
       ]
     },
     {
       "id": 6,
-      "text": "Ktoré hormóny sú vylučované predným lalokom hypofýzy?",
-      "categoryId": 2,
+      "text": "Vírusy sú:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Rastový hormón (GH)",
-          "isCorrect": true
-        },
-        {
-          "id": 2,
-          "text": "Tyreotropný hormón (TSH)",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "Inzulín",
+          "id": "a",
+          "text": "extracelulárne parazity",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Adrenokortikotropný hormón (ACTH)",
+          "id": "b",
+          "text": "schopné uchovávať genetickú informáciu",
           "isCorrect": true
         },
         {
-          "id": 5,
-          "text": "Glukagón",
-          "isCorrect": false
-        },
-        {
-          "id": 6,
-          "text": "Prolaktín",
+          "id": "c",
+          "text": "nebunkové organizmy",
           "isCorrect": true
         },
         {
-          "id": 7,
-          "text": "Kortizol",
+          "id": "d",
+          "text": "najjednoduchšie jednobunkové prokaryotické organizmy",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Adrenalín",
+          "id": "e",
+          "text": "z hľadiska organizácie najjednoduchšie živé sústavy",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "schopné autoreprodukcie",
           "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "schopné trvalo existovať len ako parazity buniek",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "rozmnožovaním viazané len na živé bunky",
+          "isCorrect": true
         }
       ]
     },
     {
       "id": 7,
-      "text": "Ktoré faktory zvyšujú srdcovú frekvenciu?",
-      "categoryId": 2,
+      "text": "Podľa všeobecnej štruktúry rozlišujeme dva základné typy buniek:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Aktivácia sympatiku",
-          "isCorrect": true
-        },
-        {
-          "id": 2,
-          "text": "Uvoľnenie epinefrínu",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "Parasympatická stimulácia",
+          "id": "a",
+          "text": "rastlinné a živočíšne",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Fyzická aktivita",
-          "isCorrect": true
-        },
-        {
-          "id": 5,
-          "text": "Acetylcholín na SA uzle",
+          "id": "b",
+          "text": "jadrové a bezjadrové",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Zvýšená telesná teplota",
-          "isCorrect": true
-        },
-        {
-          "id": 7,
-          "text": "Stimulácia nervus vagus",
+          "id": "c",
+          "text": "diferencované a nediferencované",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Spánok",
+          "id": "d",
+          "text": "prokaryotické a eukaryotické",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "mikroskopické a submikroskopické",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "jednoduché a zložené",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "membránové a nemembránové",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "telové a pohlavné",
           "isCorrect": false
         }
       ]
     },
     {
       "id": 8,
-      "text": "Ktoré procesy prebiehajú počas svalovej kontrakcie?",
-      "categoryId": 2,
+      "text": "Pravé individuá vyššieho rádu:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Viazanie vápnikových iónov na troponín",
+          "id": "a",
+          "text": "sú spoločenstvá tzv. sociálneho hmyzu",
           "isCorrect": true
         },
         {
-          "id": 2,
-          "text": "Hydrolýza ATP",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "Transkripcia DNA",
+          "id": "b",
+          "text": "sú napr. svorky vlkov",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Tvorba aktín-myozínových mostíkov",
-          "isCorrect": true
-        },
-        {
-          "id": 5,
-          "text": "Mitóza",
+          "id": "c",
+          "text": "sú spoločenstvá jedincov, ktorí môžu existovať aj samostatne",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Skrátenie sarkoméry",
+          "id": "d",
+          "text": "sú obligátne spoločenstvá organizmov",
           "isCorrect": true
         },
         {
-          "id": 7,
-          "text": "Syntéza glykogénu",
+          "id": "e",
+          "text": "majú jedincov trvalo anatomicky a funkčne diferencovaných",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "sú spoločenstvá organizmov, v ktorých je funkčná špecializácia jedincov zameniteľná",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Produkcia cholesterolu",
+          "id": "g",
+          "text": "sú spoločenstvá organizmov, v ktorých je funkčná špecializácia jedincov nezameniteľná",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "majú jedincov prechodne anatomicky a funkčne diferencovaných",
           "isCorrect": false
         }
       ]
     },
     {
       "id": 9,
-      "text": "Ktoré molekuly sú sacharidy?",
-      "categoryId": 3,
+      "text": "Bunky určitého funkčného a štrukturálneho typu sa spájajú do:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Glukóza",
-          "isCorrect": true
-        },
-        {
-          "id": 2,
-          "text": "Fruktóza",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "Hemoglobín",
+          "id": "a",
+          "text": "orgánov – pri rastlinách",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Glykogén",
-          "isCorrect": true
-        },
-        {
-          "id": 5,
-          "text": "Cholesterol",
+          "id": "b",
+          "text": "špecializovaných buniek",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Laktóza",
+          "id": "c",
+          "text": "pletív – pri rastlinách",
           "isCorrect": true
         },
         {
-          "id": 7,
-          "text": "Myoglobín",
+          "id": "d",
+          "text": "organizmov",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Testosterón",
+          "id": "e",
+          "text": "individuí vyššieho rádu – pri živočíchoch",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "tkanív – pri živočíchoch",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "tkanivových kultúr – pri rastlinách",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "bunkových organel",
           "isCorrect": false
         }
       ]
     },
     {
       "id": 10,
-      "text": "Ktoré enzýmy sa podieľajú na trávení?",
-      "categoryId": 3,
+      "text": "Základom cytoplazmatickej nmembrány je:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Amyláza",
-          "isCorrect": true
-        },
-        {
-          "id": 2,
-          "text": "Pepsín",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "DNA polymeráza",
+          "id": "a",
+          "text": "bielkovinová dvojvrstva",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Lipáza",
-          "isCorrect": true
-        },
-        {
-          "id": 5,
-          "text": "RNA polymeráza",
+          "id": "b",
+          "text": "celulózová dvojvrstva",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Trypsín",
+          "id": "c",
+          "text": "dvojvrstva lipidov, do ktorej sú ponorené bielkoviny",
           "isCorrect": true
         },
         {
-          "id": 7,
-          "text": "Helikáza",
+          "id": "d",
+          "text": "cytosol",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Ligáza",
+          "id": "e",
+          "text": "cytoplazmatická matrix",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "fosfolipidová dvojvrstva",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "plazmaléma",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "bielkovinová dvojvrstva, do ktorej sú ponorené fosfolipidy",
           "isCorrect": false
         }
       ]
     },
     {
       "id": 11,
-      "text": "Ktoré vitamíny sú rozpustné v tukoch?",
-      "categoryId": 3,
+      "text": "K základným bunkovým povrchom eukaryotickej bunky patrí:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Vitamín A",
+          "id": "a",
+          "text": "plazmaléma",
           "isCorrect": true
         },
         {
-          "id": 2,
-          "text": "Vitamín D",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "Vitamín C",
+          "id": "b",
+          "text": "jadrová membrána",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Vitamín E",
-          "isCorrect": true
-        },
-        {
-          "id": 5,
-          "text": "Vitamín B12",
+          "id": "c",
+          "text": "kutikula",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Vitamín K",
-          "isCorrect": true
-        },
-        {
-          "id": 7,
-          "text": "Tiamín (B1)",
+          "id": "d",
+          "text": "pelikula",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Riboflavín (B2)",
+          "id": "e",
+          "text": "bunková stena",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "cytoplazmatická membrána",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "slizové puzdro",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "karyoléma",
           "isCorrect": false
         }
       ]
     },
     {
       "id": 12,
-      "text": "Ktoré aminokyseliny sú esenciálne (musia sa prijímať v potrave)?",
-      "categoryId": 3,
+      "text": "Cytoplazmatická membrána:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Leucín",
+          "id": "a",
+          "text": "je väčšinou jedinou biomembránou v prokaryotických bunkách",
           "isCorrect": true
         },
         {
-          "id": 2,
-          "text": "Lyzín",
+          "id": "b",
+          "text": "reguluje prijem látok do bunky",
           "isCorrect": true
         },
         {
-          "id": 3,
-          "text": "Alanín",
+          "id": "c",
+          "text": "sa nazýva plazmaléma",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "sa nazýva karyoléma",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Metionín",
+          "id": "e",
+          "text": "patrí k bunkovým povrchom",
           "isCorrect": true
         },
         {
-          "id": 5,
-          "text": "Glycín",
-          "isCorrect": false
-        },
-        {
-          "id": 6,
-          "text": "Tryptofán",
+          "id": "f",
+          "text": "obsahuje receptory na zachytávanie signálov",
           "isCorrect": true
         },
         {
-          "id": 7,
-          "text": "Serín",
+          "id": "g",
+          "text": "tvorí prostredie pre život a metabolickú aktivitu bunkových organel",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Glutamín",
+          "id": "h",
+          "text": "zabezpečuje predovšetkým mechanickú ochranu bunky",
           "isCorrect": false
         }
       ]
     },
     {
       "id": 13,
-      "text": "Ktoré lieky sú beta-blokátory?",
-      "categoryId": 4,
+      "text": "Biomembrány sú zložené:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Propranolol",
-          "isCorrect": true
-        },
-        {
-          "id": 2,
-          "text": "Metoprolol",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "Lisinopril",
+          "id": "a",
+          "text": "z dvojvrstvy bielkovín a molekúl sacharidov",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Atenolol",
+          "id": "b",
+          "text": "z dvojvrstvy lipidov a integrálnych a periférnych bielkovín",
           "isCorrect": true
         },
         {
-          "id": 5,
-          "text": "Amlodipin",
+          "id": "c",
+          "text": "z dvojvrstvy fosfolipidov a dvojvrstvy sacharidov",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Karvedilol",
+          "id": "d",
+          "text": "z jednej vrstvy fosfolipidov a dvoch vrstiev molekúl bielkovín",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "z molekúl fosfolipidov, ktoré tvoria dvojitú vrstvu a molekúl bielkovín",
           "isCorrect": true
         },
         {
-          "id": 7,
-          "text": "Losartan",
+          "id": "f",
+          "text": "z vonkajšej bielkovinovej a vnútornej lipidovej vrstvy",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Hydrochlorotiazid",
+          "id": "g",
+          "text": "z integrálnych a periférnych lipidov a molekúl bielkovín",
           "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "z dvojvrstvy fosfolipidov, do ktorej sú ponorené molekuly bielkovín",
+          "isCorrect": true
         }
       ]
     },
     {
       "id": 14,
-      "text": "Ktoré lieky sú nesteroidné protizápalové lieky (NSAIDs)?",
-      "categoryId": 4,
+      "text": "Eukaryotické bunky na rozdiel od prokaryotických:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Ibuprofen",
+          "id": "a",
+          "text": "majú membránové organely",
           "isCorrect": true
         },
         {
-          "id": 2,
-          "text": "Naproxen",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "Morfín",
+          "id": "b",
+          "text": "nemajú membránové organely",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Diklofenak",
+          "id": "c",
+          "text": "majú karyolému",
           "isCorrect": true
         },
         {
-          "id": 5,
-          "text": "Kodeín",
+          "id": "d",
+          "text": "nemajú jadrovú membránu",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Kyselina acetylsalicylová (Aspirín)",
+          "id": "e",
+          "text": "majú kruhové jadrové chromozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "sú spravidla menšie",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "majú vnútorný priestor rozčlenený membránami na štrukturine a funkčné celky",
           "isCorrect": true
         },
         {
-          "id": 7,
-          "text": "Paracetamol",
-          "isCorrect": false
-        },
-        {
-          "id": 8,
-          "text": "Fentanyl",
+          "id": "h",
+          "text": "majú vlastný genetický materiál",
           "isCorrect": false
         }
       ]
     },
     {
       "id": 15,
-      "text": "Ktoré antibiotiká patria do skupiny penicilínov?",
-      "categoryId": 4,
+      "text": "Živočíšne bunky na rozdiel od rastlinných buniek:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Amoxicilín",
-          "isCorrect": true
-        },
-        {
-          "id": 2,
-          "text": "Ampicilín",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "Ciprofloxacín",
+          "id": "a",
+          "text": "sú od vonkajšieho prostredia oddelené cytoplazmatickou membránou",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Penicilín G",
+          "id": "b",
+          "text": "obsahujú lyzozómy, ktoré zabezpečujú rozkladné procesy v bunke",
           "isCorrect": true
         },
         {
-          "id": 5,
-          "text": "Azitromycín",
+          "id": "c",
+          "text": "obsahujú vakuoly",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Nafcilín",
+          "id": "d",
+          "text": "majú na povrchu semipermeabilnú bunkovú stenu",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "sú navzájom pospájané plazmodezmami",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "nemajú bunkovú stenu",
           "isCorrect": true
         },
         {
-          "id": 7,
-          "text": "Doxycyklín",
+          "id": "g",
+          "text": "majú tonoplast",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Vankomycín",
-          "isCorrect": false
+          "id": "h",
+          "text": "môžu obsahovať myofibrily, tonofibrily, neurofibrily",
+          "isCorrect": true
         }
       ]
     },
     {
       "id": 16,
-      "text": "Ktoré lieky sú ACE inhibítory?",
-      "categoryId": 4,
+      "text": "Cytoskelet bunky:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Enalapril",
+          "id": "a",
+          "text": "zabezpečuje priestorové rozloženie organel v bunke",
           "isCorrect": true
         },
         {
-          "id": 2,
-          "text": "Lisinopril",
+          "id": "b",
+          "text": "predstavuje statickú kostru bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "uplatňuje sa pri realizácii difúzie",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "uplatňuje sa pri realizácii fagocytózy",
           "isCorrect": true
         },
         {
-          "id": 3,
-          "text": "Losartan",
-          "isCorrect": false
-        },
-        {
-          "id": 4,
-          "text": "Ramipril",
+          "id": "e",
+          "text": "uplatňuje sa pri realizácii pinocytózy",
           "isCorrect": true
         },
         {
-          "id": 5,
-          "text": "Valsartan",
+          "id": "f",
+          "text": "uplatňuje sa pri realizácii osmózy",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Kaptopril",
+          "id": "g",
+          "text": "je zložený z nukleoproteínových vlákien",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "má pohybovú, mechanickú a podporpú funkciu",
           "isCorrect": true
-        },
-        {
-          "id": 7,
-          "text": "Metoprolol",
-          "isCorrect": false
-        },
-        {
-          "id": 8,
-          "text": "Amlodipin",
-          "isCorrect": false
         }
       ]
     },
     {
       "id": 17,
-      "text": "Ktoré ochorenia sú autoimunitné?",
-      "categoryId": 5,
+      "text": "Cytoskeletová sústava bunky:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Reumatoidná artritída",
-          "isCorrect": true
-        },
-        {
-          "id": 2,
-          "text": "Diabetes mellitus 1. typu",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "Pneumónia",
+          "id": "a",
+          "text": "patrí k membránovým štruktúram",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Skleróza multiplex",
+          "id": "b",
+          "text": "uplatňuje sa pri realizácii všetkých druhov pohybov, ktoré bunka vykonáva",
           "isCorrect": true
         },
         {
-          "id": 5,
-          "text": "Tuberkulóza",
-          "isCorrect": false
-        },
-        {
-          "id": 6,
-          "text": "Systémový lupus erythematodes",
+          "id": "c",
+          "text": "predstavuje dynamickú kostru bunky",
           "isCorrect": true
         },
         {
-          "id": 7,
-          "text": "Chrípka",
+          "id": "d",
+          "text": "predstavuje statickú kostru bunky",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Malária",
+          "id": "e",
+          "text": "patrí k fibrilárnym štruktúram",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "patrí medzi neživé súčasti bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "je tvorená mikrotubulmi, mikrofilamentami a intermediárnymi filamentami",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "je tvorená nukleoproteínovými vláknami",
           "isCorrect": false
         }
       ]
     },
     {
       "id": 18,
-      "text": "Ktoré patogény sú vírusy?",
-      "categoryId": 5,
+      "text": "Drsná forma endoplazmatického retikula:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Vírus chrípky",
-          "isCorrect": true
-        },
-        {
-          "id": 2,
-          "text": "HIV",
-          "isCorrect": true
-        },
-        {
-          "id": 3,
-          "text": "Streptococcus pneumoniae",
+          "id": "a",
+          "text": "sa podieľa na syntéze vitamínu D",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Vírus hepatitídy B",
-          "isCorrect": true
-        },
-        {
-          "id": 5,
-          "text": "Escherichia coli",
+          "id": "b",
+          "text": "sa podieľa na syntéze lipidov",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "SARS-CoV-2",
-          "isCorrect": true
-        },
-        {
-          "id": 7,
-          "text": "Mycobacterium tuberculosis",
+          "id": "c",
+          "text": "je bez ribozómov",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Candida albicans",
+          "id": "d",
+          "text": "sa podieľa na syntéze bielkovín",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "sa podieľa na syntéze proteínov",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "zabezpečuje vnútrobunkový transport látok",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "zabezpečuje medzibunkový transport látok",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "nepatrí k mebránovým organelám bunky",
           "isCorrect": false
         }
       ]
     },
     {
       "id": 19,
-      "text": "Ktoré nálezy sú charakteristické pre zápalovú odpoveď?",
-      "categoryId": 5,
+      "text": "Hladká forma endoplazmatického retikula:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Zvýšená vaskulárna permeabilita",
+          "id": "a",
+          "text": "je bez ribozómov",
           "isCorrect": true
         },
         {
-          "id": 2,
-          "text": "Vazodilatácia",
+          "id": "b",
+          "text": "je viditeľná v optickom mikroskope",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "sa podieľa na syntéze lipidov",
           "isCorrect": true
         },
         {
-          "id": 3,
-          "text": "Znížený prietok krvi",
-          "isCorrect": false
-        },
-        {
-          "id": 4,
-          "text": "Migrácia leukocytov",
+          "id": "d",
+          "text": "sa podieľa na syntéze vitamínu D",
           "isCorrect": true
         },
         {
-          "id": 5,
-          "text": "Kalcifikácia tkaniva",
+          "id": "e",
+          "text": "obsahuje predovšetkým hydrolytické enzýmy",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Uvoľňovanie chemických mediátorov",
+          "id": "f",
+          "text": "má ribozómy iba na vnútornej membráne",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "sa podieľa na syntéze bielkovín",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "zabezpečuje vnútrobunkový transport niektorých látok",
           "isCorrect": true
-        },
-        {
-          "id": 7,
-          "text": "Atrofia buniek",
-          "isCorrect": false
-        },
-        {
-          "id": 8,
-          "text": "Fibróza",
-          "isCorrect": false
         }
       ]
     },
     {
       "id": 20,
-      "text": "Ktoré typy nekrózy existujú v patológii?",
-      "categoryId": 5,
+      "text": "Lyzozómy obsahujú enzýmy:",
+      "categoryId": 1,
       "answers": [
         {
-          "id": 1,
-          "text": "Koagulatívna nekróza",
+          "id": "a",
+          "text": "ktoré sa zúčastňujú na lytických procesoch v bunke",
           "isCorrect": true
         },
         {
-          "id": 2,
-          "text": "Likvefakčná nekróza",
+          "id": "b",
+          "text": "ktoré sa zúčastňujú na vnútrobunkovom trávení",
           "isCorrect": true
         },
         {
-          "id": 3,
-          "text": "Hyperplastická nekróza",
+          "id": "c",
+          "text": "typu polymeráz",
           "isCorrect": false
         },
         {
-          "id": 4,
-          "text": "Kaseózna nekróza",
-          "isCorrect": true
-        },
-        {
-          "id": 5,
-          "text": "Metaplastická nekróza",
+          "id": "d",
+          "text": "tráviace a vylučovacie",
           "isCorrect": false
         },
         {
-          "id": 6,
-          "text": "Tuková nekróza",
-          "isCorrect": true
-        },
-        {
-          "id": 7,
-          "text": "Dysplastická nekróza",
+          "id": "e",
+          "text": "ktoré upravujú látky syntetizované na ribozómoch, aby mohli byť vylúčené z bunky von",
           "isCorrect": false
         },
         {
-          "id": 8,
-          "text": "Atrofická nekróza",
+          "id": "f",
+          "text": "uložené v matrix",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "hydrolytické",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "ktoré štiepia látky cudzorodé alebo nepotrebné",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Mitochondrie sú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "prítomné len v eukaryotických bunkách",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "od cytoplazmy oddelené dvojitou membránou",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "energetickým centrom bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "prítomné v niektorých prokaryotických bunkách",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "metabolicko-respiračným centrom bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "syntetickým centrom bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "prítomné vo väčšom počte v bunkách, kde je veľká spotreba energie",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "bunkové organely, ktorými sa živočíšne bunky odlišujú od rastlinných",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Bunkové jadro:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sa označuje ako karyon",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "sa označuje ako nucleus",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "sa skladá predovšetkým z RNA a bielkovín",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "eukaryotických buniek obsahuje kruhové chromozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "obsahuje DNA a bielkoviny, ktoré tvoria chromatín",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "má na povrchu karyoléum",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "má na povrchu plazmalému",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "má na povrchu dve biomembrány",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Ribozómy:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "patria k membránovým organelám bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "sú mikroskopické častice",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "sú submikroskopické častice",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "nepatria k membránovým organelám bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "sú viditeľné len elektronovým mikroskopom",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "sú napojené na hladké endoplazmatické retikulum",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "sú nukleoproteínové častice zložené z DNA a bielkovín",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "sú nukleoproteínové častice zložené z RNA a bielkovín",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Mitochondrie sú membránové organely, ktoré:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sú od cytoplazmy oddelené jednou membránou",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "sú od cytoplazmy oddelené dvojitou membránou",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "si syntetizujú svoje špecifické bielkoviny",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "majú v matrix molekuly DNA",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "majú v matrix enzýmový komplex pre Krebsov cyklus",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "sú vyplnené bunkovou šťavou",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "predstavujú dynamickú kostru bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "majú na mitochondriálnych kristách lokalizované enzýmy dýchacieho reťazca",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Koľko biomembrán majú mitochondrie:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "jednu",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "dve - jednu zrnité a jednu hladkú",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "dve",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "jednu alebo dve podľa energetických nárokov bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "dve - vonkajšiu zriasnenú a vnútornú hladkú",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "dve s mitochondriálnymi pórmi",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "jednu alebo dve podľa typu bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "dve - jednu priepustnú a jednu polopriepustnú",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Ktoré procesy sa uskutočňujú v Golgiho aparáte:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozklad látok",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "úprava látok, ktoré sa vylučujú z bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "tvorba lyzozómov",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "tvorba pektínov na stavbu bunkových stien",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "oxidácia bielkovín",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "syntéza hormónov, polysacharidov a nukleových kyselín",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "bunkové oxidácie",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "tvorba inklúzií",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Diktyozómy sú súčasťou:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "chloroplastov",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Golgiho aparátu",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "lyzozómov",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "endoplazmatického retikula",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "prokaryotických buniek",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "eukaryotických buniek",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "cytoskeletu",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "mitochondrií",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Nukleolus:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "je v cytoplazme a je zložený z RNA a bielkovín",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "je v jadre a skladá sa z DNA a bielkovín",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "je stála štruktúra jadra",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "sa nachádza len v eukaryotických bunkách",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "je jadierko a je miestom syntézy rRNA",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "je štruktúra, ktorá zaniká počas jadrového delenia",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "má na povrchu karyolému",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "je uložený v cytoplazme prokaryotických buniek",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Jadro eukaryotických buniek:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "obsahuje chromatín",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "obsahuje centriol",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "je riadiace centrum bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "je reprodukčné centrum bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "je vyplnené bunkovou šťavou",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "je pohybové centrum bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "je submikroskopická štruktúra",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "sa vyskytuje vo všetkých eukaryotických bunkách okrem niektorých vysokošpecializovaných buniek",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Bunkové organely, ktorých základom sú biomembrány, nazývame:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "organelové štruktúry bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "cytoplazmatické organely",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "membránové štruktúry bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "biomembrány bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "štruktúrne organely bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "membránové organely bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "eukaryotické organely",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "vezikuly",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Medzi membránové organely nepatria:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "ribozómy",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "lyzozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "bakteriálne jadro",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "mitochondrie",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "centriol",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "cytoskelet",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "jadierko",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "vakuoly",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Medzi membránové organely patria:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "centrioly",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "centrozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "ribozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "chromozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "Golgiho aparát",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "jadierka",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "lyzozómy",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "vakuoly",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "K mitotickému aparátu bunky patria:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "centroméra",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "chromozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "astrosféra",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "centrioly",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "pólové telieska",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "deliace vretienko",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "chromatídy",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "jadierkový organizátor",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Chromozómy:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sú viditeľné len počas delenia bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "sú viditeľné v interfáze",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "homologické majú rovnaký tvar a vždy rovnaké alely",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "majú centroméru v mieste druhotného zúženia",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "sú tvorené nukleoproteínovými vláknami",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "majú ramená, ktoré sa spájajú v mieste centroméry",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "v metafáze mitózy sú zložené z dvoch chromatíd, ktoré sú geneticky identické",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "v jadre eukaryotických buniek môžu byť aj kruhové",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "Obsah vody v bunkách:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "je v priemere 65%",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "sa počas života organizmu nemení",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "závisí od ich prostredia",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "závisí od orgánu, v ktorom sa nachádzajú",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "závisí od ich veku",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "ontogeneticky starších je väčší",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "ontogeneticky mladších je menší",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "je v priemere 10 - 40 % ich celkovej hmotnosti",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "Endocytóza:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "je napr. pinocytóza",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "je proces, pri ktorom dochádza k štrukturálnej prestavbe plazmatickej membrány",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "je pasívny transport látok do bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "je aktívny transport látok do bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "je aktívny transport látok von z bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "nevyžaduje spotrebu energie",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "sa uskutočňuje na báze difúzie a osmózy",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "je napr. fagocytóza",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Rastlinná bunka v hypertonickom prostredí:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "stráca vodu",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "nasáva vodu",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "sa nemení",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "podlieha plazmolýze",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "podlieha plazmoptýze",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "zväčšuje svoj objem",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "zmenšuje svoj vnútorný objem",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "stráca vodu a cytoplazmatická membrána sa oddel'uje od bunkovej steny",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "text": "Živočíšna bunka v hypotonickom prostredí:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sa zmrští",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "praská",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "podlieha plazmoptýze",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "podlieha plazmolýze",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "sa nemení",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "osmoticky nasáva vodu",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "zväčšuje svoj objem",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "stráca vodu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "text": "Živočíšna bunka v hypertonickom prostredí:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sa zmrští",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "praská",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "stráca vodu",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "podlieha plazmolýze",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "podlieha plazmoptýze",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "aktívne transportuje molekuly vody von z bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "nasáva vodu z prostredia s vyššou koncentráciou osmoticky aktívnych častíc",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "zmenšuje svoj objem",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "text": "Difúzia a osmóza majú spoločné to, že:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "ide o aktívny transport látok",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "vyžadujú spotrebu energie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "ide o pasívny transport látok",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "ide o pohyb molekúl z miesta nižšej koncentrácie na miesto s vyššou koncentráciou",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "dochádza pri tom k štrukturálnej prestavbe plazmatickej membrány",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "ide o pohyb molekúl z miesta vyššej koncentrácie na miesto s nižšou koncentráciou",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "nevyžadujú spotrebu energie",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "nedochádza pri tom k štrukturálnej prestavbe plazmatickej membrány",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "text": "Bunkovou bariérou, ktorá selektívne prepúšťa potrebné látky do bunky a von z bunky, je:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "jadrová membrána",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "plazmaléma",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "bunková stena",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "cytoplazmatická membrána",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "slizové puzdro",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "plazmatická membrána",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "fibrilárna štruktúra na povrchu bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "cytoskelet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "text": "Pasívny transport látok cez plazmatickú membránu:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "nevyžaduje spotrebu energie",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "je napr. prenos glukózy a aminokyselín proti koncentračnému spádu",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "zabezpečuje prenos látok proti koncentračnému spádu",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "je napr. difúzia",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "je napr. osmóza",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "prebieha v smere koncentračného spádu danej látky",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "nezávisí od koncentračného spádu danej látky",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "je typický pre prechod molekúl vody, plynov, etanolu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "text": "Hypotonické prostredie:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "je prostredie s nižšou koncentráciou osmoticky aktívnych častíc",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "je prostredie s vyššou koncentráciou osmoticky aktívnych častíc",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "podmieňuje plazmolýzu rastlinných buniek",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "spôsobuje plazmoptýzu živočíšnych buniek",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "spôsobuje lýzu červených krviniek",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "spôsobuje oddel'ovanie plazmatickej membrány od bunkovej steny",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "je napr. destilovaná voda",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "podmieňuje osmotické nasávanie vody bunkou",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "text": "Transportné bielkoviny plazmatickej membrány:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "prenášajú látky vo forme vezikúl v smere ich koncentračného spádu",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "sú univerzálne pre všetky látky",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "špecificky viažu transportované látky",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "špecificky prenášajú niektoré látky do bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "sú dôležité pri endocytóze",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "sa uplatňujú pri difúzii a osmóze",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "prenášajú do bunky tie látky, ktorým ich štruktúra umožní prechod cez cytoplazmatickú membránu",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "sa uplatňujú pri sprostredkovanej difúzii",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "text": "Nesprávne odpovede sú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "cytoskelet zabezpečuje funkciu pohybu len u riasiniek prvokov",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "vakuoly majú dôležitú úlohu pri metabolických pochodoch bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "mikrotubuly obsahujú tubulín",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "mikrofilamenty obsahujú pektín",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "medzi centromérami vzniká deliace vretienko z mikrotubulov",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "jedným z typov chloroplastov sú plastidy",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "mikrofilamenty skracujú a mikrotubuly len natáhujú bunku",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "tylakoidy sa vyskytujú predovšetkým v chlorofyle a",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "text": "Difúziou môžu cez biomembránu prechádzať?:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "do bunky všetky látky",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "z bunky všetky látky",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "plyny",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "etanol",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "niektoré ióny",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "tie látky, ktorým ich štruktúra umožní prechod plazmatickou membránou",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "voda",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "niektoré látky proti smeru koncentračného spádu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "text": "Rýchlosť jednoduchej difúzie cez cytoplazmatickú membránu závisí:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "od štrukturálnej prestavby plazmatickej membrány",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "od množstva energie vo forme ATP",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "od aktivity transportných bielkovín",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "od teploty",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "od koncentračného spádu",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "od aktivity cytoskeletu bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "od enzymovej aktivity membrány",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "od stupňa diferenciácie bunky",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "text": "Bunka vytvára pseudopódie:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "pri pinocytóze",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "pomocou cytoskeletu",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "pri fagocytóze",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "pri osmóze",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "pomocou mikrofilamentov",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "pričom uzatvára fagocytované čiastočky do fagocytovej vakuoly",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "pri exocytóze",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "pri pasívnom príjme látok do bunky",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "text": "Aktívny transport cez cytoplazmatickú membránu umožňuje prenos:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "vody",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "plynov",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "etanolu",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "iónov vápnika do svalovej bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "látok pomocou transportných bielkovín",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "iónov sodíka z bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "iónov draslíka do bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "látok spravidla proti koncentračnému spádu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "text": "Bunkový cyklus:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sa označuje ako regeneračná doba bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "je naprogramovaný geneticky",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "sa pri nedostatku živín v prostredí zastaví v S - fáze",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "je kontrolovaný mechanizmami pôsobiacimi hlavne v G1 - fáze",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "môže byť narušený niektorými vírusmi",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "zahŕňa prípravné fázy G1 - postmitotická a G2 - premitotická",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "prokaryotických buniek má G1, S, G2 a M - fázu",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "zahŕňa prípravné fázy G1 - predmitotická a G2 - postmitotická",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "text": "Poradie všetkých fáz bunkového cyklu je nasledujúce:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "karyokinéza a cytokinéza",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "profáza, metafáza, anafáza, telofáza",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "heterotypické a homeotypické delenie",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "G1, S, G2, M",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "predmitotická fáza, S - fáza, postmitotická fáza, M - fáza",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "amitóza, mitóza, meióza",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "interfáza a M - fáza",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "postmitotická fáza, S - fáza, predmitotická fáza, M - fáza",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "text": "Generačná doba bunky:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "je daná geneticky",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "je pre rozličné bunky rovnaká",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "je časové trvanie bunkového cyklu",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "je pre rozličné typy buniek rozdielna",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "nezávisí od množstva živín v prostredí",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "je časové trvanie interfázy",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "je časové trvanie regenerácie bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "je ovplyvnená množstvom vhodných živín v prostredí",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "text": "Priebeh bunkového cyklu a jeho reguláciu možno dobre študovať:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "na bunkách pestovaných in vivo",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "na vírusoch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "na baktériách pestovaných in vivo",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "na bunkách pestovaných in vitro",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "na nádorových bunkách",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "na bunkách pestovaných mimo živého organizmu na živných pôdach",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "na bunkových a pletivových kultúrach",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "na diferencovaných bunkách",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "text": "Interfáza:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "je obdobie, keď sa bunka nedeilí",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "zahŕňa mitózu",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "sa označuje ako bunkový cyklus",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "sa označuje ako generačná doba bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "zahrňa profázu, metafázu, anafázu, telofázu",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "zahrňa postmitotickú fázu, S - fázu a predmitotickú fázu",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "zahrňa hlavný kontrolný uzol celého bunkového cyklu",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "je rastová fáza bunkového cyklu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "text": "Pri nedostatku živín v prostredí sa generačná doba bunky:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "nemení",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "zrychľuje",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "predlžuje",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "zrýchľuje za vzniku nádorových buniek",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "skrátí, pretože sa zastavuje priebeh G1 fázy",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "nemení, pretože sa zastavuje priebeh bunkového cyklu",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "predlžuje, pretože sa zastavuje nielen priebeh G1 - fázy, ale aj celého bunkového cyklu",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "zrýchľuje, pretože bunka urýchlene prechádza do M - fázy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "text": "G1 - fáza bunkového cyklu:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sa označuje ako predmitotická",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "sa označuje ako postmitotická",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "začína v okamihu vzniku dcérskej bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "začína v okamihu zániku dcérskej bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "je začiatkom vlastného bunkového cyklu dcérskej bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "je charakterizovaná rastovými procesmi",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "z hľadiska časového trvania je najkratšia",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "z hľadiska časového trvania je najvariabilnejšia",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "text": "V G1 - fáze:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "prebieha syntéza bielkovín",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "sa nachádza hlavný kontrolný uzol bunkového cyklu",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "prebieha zdvojenie jadrových chromozómov",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "sa bunka pripravuje na rozdelenie jadra",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "sa nachádza kontrolný uzol karyokinézy",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "sa nachádza kontrolný uzol cytokinézy",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "dochádza k zmnoženiu bunkových štruktúr",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "neprebieha zdvojenie jadrových chromozómov",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "text": "Sesterské chromatídy:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "vznikajú replikáciou DNA v S-fáze",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "sú homologické",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "sú spojené centromérou",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "sa rozchádzajú v anafáze mitózy",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "sa rozchádzajú v anafáze I. meiotického delenia",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "sa rozchádzajú v anafáze II. meiotického delenia",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "sa rozchádzajú v anafáze heterotypického delenia",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "sú geneticky identické",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "text": "Označte nesprávnu odpoveď:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "v priebehu profázy sa chromozómy skracujú a hrubnú",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "v metafáze sa chromozómy zoradiajú do centrálnej roviny a priečne sa rozdeľujú v centromére",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "v S - fáze bunkového cyklu prebieha syntéza DNA",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "v profáze sa centrozóm rozdelí a obidva nové sa presunú oproti sebe v centre jadra",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "v priebehu telofázy zanikajú vlákna deliacého vretienka",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "na začiatku anafázy sa v blízkosti každého centrozómu sústredí diploidný počet chromozómov",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "G1 - fáza sa nazýva hlavný kontrolný uzol bunkového cyklu",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "v profáze I sa chromatídy homologických chromozómov prekrížia a vymenia si navzájom genetický materiál",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "text": "Bielkoviny, ktoré sa syntetizujú v G1 - fáze sa využívajú najmä:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "na tvorbu mitotického aparátu",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "na tvorbu bunkových organel",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "na tvorbu jednochromatidových chromozómov",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "na rastové procesy v bunke",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "na znásobenie bunkových štruktúr",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "na tvorbu zásobných štruktúr",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "na tvorbu deliacého vretienka",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "na tvorbu plazmatickej platničky",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "text": "Kľúčovým procesom S - fázy je:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "syntéza DNA",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "zdvojenie jednochromatidových chromozómov",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "rozdelenie jadrových chromozómov",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "regenerácia jadra",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "zdvojenie bunkových organel",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "zdvojenie dvojchromatidových chromozómov",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "znásobenie genetického materiálu bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "zdvojenie počtu homologických chromozómov",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "text": "Karyokinéza a cytokinéza prebiehajú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "v interfáze bunkového cyklu",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "v M - fáze bunkového cyklu",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "v telofáze mitózy",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "v G2 - fáze bunkového cyklu",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "v telofáze II",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "v metafáze ver bunkového cyklu",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "v postmitotickej fáze",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "v telofáze I",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "text": "Do interfázy bunkového cyklu patrí:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "G2 - fáza",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "G1 - fáza",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "M - fáza",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "meióza",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "mitóza",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "predmitotická G1 - fáza",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "S - fáza",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "postmitotická G2 - fáza",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "text": "Chemické regulačné mechanizmy bunkového cyklu:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "môžu mať stimulačný účinok na bunkové delenie",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "môžu mať inhibičný účinok na bunkové delenie",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "sú napr. cytostatiká",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "sú účinné najmä v G1 - fáze",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "sú účinné najmä v M - fáze, kde je hlavný kontrolný uzol bunkového cyklu",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "sú napr. vírusy, ktoré môžu spôsobiť nekoordinované delenie buniek",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "podmieňujú funkčné a tvarové odlíšenie buniek",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "sú účinné najmä na bunky, ktoré majú vzhľadom na svoju funkciu geneticky trvalo zablokovanú schopnosť sa deliť",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "text": "Reguláciu bunkového cyklu môžu ovplyvniť?:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "cytostatiká, ktoré spomaľujú alebo zastavujú bunkové delenie",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "cytostatiká, ktoré stimulujú bunkové delenie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "vonkajšie faktory, napr. teplota",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "niektoré vírusy, za vznikú rakoviny",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "inhibítory - napr. kolchicín",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "rastové regulátory, ktoré sa môžu aplikovať aj zámerne",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "vonkajšie faktory, napr. dostatok živín v prostredí",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "rastové hormóny",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "text": "Stimulujúci účinok na bunkový cyklus:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "majú cytostatiká",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "má napr. kolchicín",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "majú niektoré inhibítory rastu",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "má hlavný kontrolný uzol bunkového cyklu v G1 - fáze",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "majú niektoré vírusy",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "majú rastové hormóny",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "majú niektoré rastové regulátory",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "majú antibiotiká",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "text": "V profáze mitózy:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sa centriol delí a každá polovica putuje na opačný pól jadra",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "sú chromozómy dvojchromatidové",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "sú chromozómy jednochromatidové",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "sa chromozómy skracujú",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "sa chromozómy špiralizujú",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "zaniká jadrová membrána",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "sa chromozómy dešpiralizujú",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "sa centrozómy oddelia a každý putuje na opačný pól bunky",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "text": "V metafáze mitózy:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sú chromozómy dvojchromatidové",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "sú chromozómy jednochromatidové",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "sa jednochromatidové chromozómy zdvojujú na dvojchromatidové",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "sú chromozómy zoradené do centrálnej roviny",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "sa chromozómy ďalej dešspiralizujú",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "sa rozchádzajú dcérske chromatidy na protiľahlé póly bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "vrcholí špiralizácia chromozómov",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "sa mikrotubuly deliaceho vretenka upínajú na centroméru každého chromozómu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "text": "V telofáze mitózy:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sa chromozómy postupne špiralizujú",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "sa chromozómy postupne dešspiralizujú",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "sú chromozómy dvojchromatidové",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "sú chromozómy jednochromatidové",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "zaniká deliace vretenko",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "sa rozpúšťa jadrová membrána",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "zaniká jadierko",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "sa obnovuje štruktúra jadra",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "text": "Cytokinéza:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "je veda, ktorá skúma tvar a štruktúru buniek",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "sa začína a končí rozdelením jadra na dve dcérske",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "je pozdĺžne rozdelenie bunky a jadra",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "podmieňuje vznik viacjadrových buniek",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "je súčasťou interfázy",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "je obdobie rastu bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "označuje pohyby bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "je rozdelenie materskej bunky na dve samostatné dcérske bunky",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "text": "Telové bunky živočíchov:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sú haploidné",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "sú diploidné",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "majú 2n chromozómov",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "sú geneticky homologické",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "sú geneticky identické",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "sú geneticky odlišné",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "diferencované sú geneticky odlišné",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "vznikajú heterotypickým a homeotypickým delením",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "text": "Bivalenty vznikajú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "v profáze homeotypického delenia meiózy",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "v anafáze heterotypického delenia meiózy",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "v profáze heterotypického delenia meiózy",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "párovaním homologických chromozómov",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "párovaním geneticky identických chromozómov",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "párovaním heterologických chromozómov",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "v profáze I a zanikajú v anafáze I",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "v profáze heterotypického delenia mitózy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "text": "Označte správnu odpoveď:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "meiózou sa delia len diploidné bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "meiózou sa delia len haploidné bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "v anafáze I putujú k protiľahlým pólom bunky jednotlivé chromatídy",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "v anafáze I putujú k protiľahlým pólom bunky dvojchromatidové chromozómy",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "v metafáze I sa sústreďujú v centrálnej rovine jednotlivé chromozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "v metafáze I sa sústreďujú v centrálnej rovine bivalenty",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "crossing-over prebieha v profáze homeotypického delenia",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "druhé meiotické delenie je charakteristické redukciou počtu chromozómov na polovicu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "text": "Zygota:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "je oplodnené vajíčko",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "vzniká redukčným delením",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "je zrelá pohlavná bunka",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "má vlastnosť totipotencie",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "je haploidná",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "je diploidná",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "obsahuje v jadre kompletnú genetickú informáciu a v cytoplazme mechanizmus na jej realizáciu",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "obsahuje v cytoplazme kompletnú genetickú informáciu a v jadre mechanizmus na jej realizáciu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "text": "Karyokinéza je:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozdelenie jadra na dve dcérske",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "rozdelenie bunky na dve dcérske",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "súčasťou interfázy bunkového cyklu",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "súčasťou bunkového cyklu",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "proces zdvojenia jadrovej hmoty",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "veda, ktorá skúma tvar a štruktúru jadra",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "reprodukcia buniek",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "rozdelenie centriolu na dva dcérske",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "text": "Bunkové delenie:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sa označuje ako karyokinéza",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "môže byť priame - mitóza",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "je zvyčajne súčasťou M - fázy bunkového cyklu",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "prebieha v interfáze bunkového cyklu",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "zabezpečuje regeneráciu poškodených tkanív a orgánov",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "zabezpečuje náhradu opotrebovaných buniek",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "znamená reprodukciu buniek",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "zahŕňa karyokinézu a cytokinézu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "text": "Počet chromozómov v dcérskych bunkách vzniknutých mitotickým delením je vzhľadom k materskej bunke (2n):",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "rovnaký, lebo sa priečne rozdelí každý chromozóm podobne ako v II. meiotickom delení",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "rovnaký, lebo sa pozdĺžne rozdelí každý chromozóm podobne ako v I. meiotickom delení",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "rovnaký, lebo sa priečne rozdelí každý chromozóm podobne ako v I. meiotickom delení",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "polovičný, lebo sa pozdĺzne rozdelí každý chromozóm podobne ako v II. meiotickom delení",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "rovnaký, lebo sa pozdĺzne rozdelí každý chromozóm podobne ako v II. meiotickom delení",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "haploidný, lebo sa priečne rozdelí každý chromozóm podobne ako v II. meiotickom delení",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "polovičný, lebo sa priečne rozdelí každý chromozóm podobne ako v I. meiotickom delení",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "rovnaký, t. j. diploidný",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "text": "Bunky, ktoré vznikli meiózou:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sú geneticky zhodné s materskou bunkou",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "nie sú geneticky zhodné medzi sebou",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "majú jednu chromozómovú sadu",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "sú vždy geneticky zhodné medzi sebou",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "majú dve chromozómové sady",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "sú pohlavné bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "nie sú geneticky identické s materskou bunkou",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "sú základom variability organizmov",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "text": "Heterotypické delenie:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sa priebehom podobá mitóze",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "je charakteristické redukciou počtu chromozómov na polovicu",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "je druhé meiotické delenie",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "nezaručuje rovnomerné rozdelenie genetického materiálu",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "končí vznikom štyroch dcérskych haploidných buniek",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "je prvé meiotické delenie",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "nemení počet chromozómov",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "je prvé mitotické delenie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "text": "Redukčné delenie:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "je priame bunkové delenie",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "je meiotické delenie",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "je špecializovaný spôsob delenia, výsledkom ktorého je vznik pohlavných buniek",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "je špecializovaný spôsob delenia, výsledkom ktorého je vznik diploidných gamét",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "je v prípade živočíchov jediný možný spôsob vzniku pohlavných buniek",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "nezaručuje rovnomerné rozdelenie genetického materiálu do dcérskych buniek",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "prebieha v dvoch po sebe nasledujúcich deleniach s odlišným priebehom",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "prebieha v dvoch po sebe nasledujúcich deleniach s rovnakým priebehom",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "text": "Homeotypické delenie:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "je prvé meiotické delenie",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "je druhé meiotické delenie",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "má profázu I, metafázu I, anafázu I, telofázu I",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "má profázu II, metafázu II, anafázu II, telofázu II",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "je charakteristické zložitejším priebehom profázy, v ktorej dochádza ku crossing-overu",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "nasleduje po krátkej interfáze, kedy dochádza k replikácii DNA",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "nasleduje po krátkej interfáze, kedy nedochádza k replikácii DNA",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "redukuje počet chromozómov",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "text": "Proces postupného tvarového a funkčného odlíšenia buniek sa nazýva:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "stimulácia",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "totipotencia a uskutočňuje sa už počas zárodočného vývinu",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "diferenciácia",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "špecializácia",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "reprodukcia",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "autoregulácia",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "autoreprodukcia a výsledkom sú špecializované bunky podľa tvaru a funkcie",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "diferenciácia a výsledkom sú špecializované bunky podľa tvaru a funkcie",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "text": "Bunkové kultúry sa získavajú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "kultiváciou buniek in vivo",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "kultiváciou buniek in vitro",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "bunkovou diferenciáciou",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "pestovaním buniek či tkanív mimo živého organizmu",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "pestovaním buniek či tkanív v živom organizme",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "priamym bunkovým delením in vivo",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "mitotickým delením buniek in vitro",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "mitotickým delením buniek in vivo",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "text": "Bunková diferenciácia znamená:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "tvarové odlíšenie buniek",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "funkčné odlíšenie buniek",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "genetické odlíšenie somatických buniek",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "morfologické odlíšenie buniek",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "tvarové a funkčné odlíšenie buniek, ktoré začína už počas zárodočného vývinu organizmu",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "tvarové a funkčné odlíšenie buniek až po narodení jedinca",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "realizáciu kompletnej genetickej informácie vo všetkých bunkách",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "špecializáciu buniek na určité základné funkcie v mnohobunkovom organizme",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "text": "Diferencovaná bunka:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "má aktivované iba niektoré gény",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "má aktivované všetky gény v jadre",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "má vlastnosť totipotencie",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "obsahuje kompletnú genetickú informáciu",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "obsahuje iba tú časť genetickej informácie, ktorá je potrebná pre jej tvarové a funkčné odlíšenie",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "je bunka embryonálna",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "je bunka svalová",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "má typický tvar a je funkčne specializovaná",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "text": "Bunková stena:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "je selektívne priepustná",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "je permeabilná pre vodu a v nej rozpustené látky",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "tvorí osmotickú bariéru rastlinnej bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "je produktom protoplastu rastlinnej bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "má výživovaciu funkciu",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "udržiaa tvar bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "je semipermeabilná",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "bakteriálnych buniek obsahuje pektíny",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "text": "Rozkladné procesy v živočíšnych bunkách zabezpečujú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "amyloplasty",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Golgiho aparát",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "centrálna vakuola",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "cytoplazma",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "hladké endoplazmatické retikulum",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "zrnité endoplazmatické retikulum",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "lyzozómy",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "membránové organely obsahujúce hydrolytické enzýmy",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "text": "Rozkladné procesy v rastlinných bunkách zabezpečujú hlavne:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "amyloplasty",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "lyzozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "vakuoly",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "tonoplasty",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "plastidové ribozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "hladké endoplazmatické retikulum",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "ribozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "hydrolytické enzýmy naviazané na mitochondrie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "text": "Ktoré procesy sa uskutočňujú v chloroplastoch:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "fotosyntéza",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "rozklad nepotrebných látok",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "syntéza bielkovín",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "glykolýza",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "Krebsov cyklus",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "syntéza polysacharidov tvoriacich bunkovú stenu",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "syntéza nukleových kyselín",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "Calvinov cyklus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "text": "Rastlinné bunky sú navzájom pospájané:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sústavou pletív",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "mikrotubulmi",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "cytoskeletom",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "plazmodezmami",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "amyloplastami",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "plazmidmi",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "tonoplastami",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "pórmi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "text": "Vakuoly:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sú obalené permeabilným tonoplastom",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "sú vyplnené bunkovou šťavou",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "sú vyplnené cytoplazmou",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "obsahujú hydrolytické enzýmy",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "majú na povrchu tonoplast",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "sú od cytoplazmy oddelené semipermeabilnou membránou",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "sú produktom protoplastu rastlinných buniek",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "vyplňa stroma",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "text": "V jadrovom obale sú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "mikrotubuly",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "otvory",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "plazmodezmy",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "protoplasty",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "peptidoglykan",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "pektíny",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "lignín",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "jadrové póry",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "text": "Rastlinná bunka sa odlišuje od živočíšnej tým, že má:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "mitochondrie",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "plastidy",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "ribozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "vakuoly",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "zrnité endoplazmatické retikulum",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "bunkovú stenu",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "lyzozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "mikrotubuly",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "text": "Tylakoidy sú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "súčasťou mitochondrií",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "v stróme chloroplastov",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "v cytoplazme všetkých baktérií",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "membránové organely eukaryotickej bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "malé mechúriky Golgiho aparátu",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "súčasťou chloroplastov",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "sploštené mechúriky viažuce molekuly chlorofylu",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "v cytoplazme cyanobaktérií",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "text": "Bičíky eukaryotických buniek:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sa skladajú z deväť trojíc mikrotubulov",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "majú na povrchu plazmatickú membránu",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "sú zakotvené v bunkovej stene",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "sa skladajú z mikrotubulov",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "obsahujú kolagén",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "sú zakotvené v bazálnom teliesku",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "majú na povrchu vždy pružnú pelikulu",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "sú pohybové organely niektorých prvokov",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "text": "Bunky všetkých živočíchov:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sú eukaryotické",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "v niektorých prípadoch prokaryotické",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "majú membránové organely",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "majú lyzozómy",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "majú pelikulu",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "sú pospájané plazmodezmami",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "obsahujú melanin",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "sa rozmnožujú priamym delením",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "text": "K vysokošpecializovaným fibrilárnym štruktúram živočíšnych buniek patria:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "nervové vlákna",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "mikrofilamenty",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "cytoskeletová sústava",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "myofibrily",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "mikrotubuly",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "tonofibrily",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "brvy",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "bičíky",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "text": "Pre lyzozómy je charakteristické, že:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "regulujú príjem a výdaj látok bunkou",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "predstavujú transportné vezikuly",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "majú vysoký obsah tráviacich enzýmov",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "sú charakteristické pre živočíšne bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "sú charakteristické pre rastlinné bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "zúčastňujú sa na bunkovom trávení v prokaryotických bunkách",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "rozkladajú cudzorodé látky v bunke",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "rozkladajú nepotrebné látky v bunke",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "text": "Mikrotubuly sú v bičíku usporiadané:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "do deväť trojíc po obvode",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "priečne",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "podľa schémy 9 + 2",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "do deväť dvojíc po obvode a jedného centrálneho páru",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "do jedenásť obvodových dvojíc",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "náhodne",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "podľa schémy 9 + 3",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "v centrálnej rovine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "text": "V rastlinných bunkách sa nenachádzajú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "lyzozómy",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "neurofibrily",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "tonofibrily",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "hydrolytické enzýmy",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "tonoplast",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "jadierka",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "plazmodezmy",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "myofibrily",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "text": "Tonoplast:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "je na povrchu leukoplastov",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "je priepustná membrána na povrchu vakuol",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "je polopriepustná membrána na povrchu vakuol",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "je semipermeabilný",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "je na povrchu lyzozómov",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "obaljuje vakuoly",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "je na povrchu transportných vezikulov",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "oddeľuje obsah vakuol od cytoplazmy",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "text": "V stróme chloroplastov sa nachádzajú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "tylakoidy",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "kruhové molekuly DNA",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "chromatín",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "lineárne molekuly DNA",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "hydrolytické enzýmy",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "bunková šťava",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "karotenoidy",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "plastidové ribozómy",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "text": "Podľa bunkovej teórie:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "z hladiska organizácie predstavujú bunky najjednoduchšie živé sústavy",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "všetky bunky pozostávajú z tých istých prvkov a molekúl",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "každá bunka vzniká len delením už existujúcej bunky",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "živé bunky sú zložené z rovnakej hmoty ako neživé objekty",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "základom každého organizmu rastlín a živočíchov je bunka",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "každá bunka pozostáva predovšetkým z anorganických makromolekúl",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "bunky sú štruktúrované, stupňovito usporiadané, otvorené nukleoproteínové sústavy",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "všetky bunky majú schopnosť uchovávať a replikovať genetickú informáciu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "text": "Prvú ucelenú evolučnú teóriu živých organizmov sformuloval:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "nemecký lekár G. Trevirana",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Ch. Darwin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "J. B. Lamarck",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "L. Pasteur",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "C. Linné",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "C. Woese",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "anglický prírodovedec W. Harvey",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "francúzský prírodovedec J. B. Lamarck v roku 1809",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "text": "Ktoré tvrdenie je správne:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "J. B. Lamarck je autorom binomickej nomenklatúry",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "L. Pasteur definitívne vyvrátil možnosť samoplodnenia i tých najmenších organizmov",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "M. J. Schleiden je zakladateľom modernej systematiky organizmov",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "T. Schwann patrí k autorom bunkovej teórie",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "C. Woese je autorom dvojmenrného pomenovania organizmov",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "pre skúmanie biologických objektov použil mikroskop medzi prvými R. Hooke",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "J. G. Mendel objasnil, že molekuly DNA sú materiálnym nositeľom genetickej informácie",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "autorstvo pojmu biológia sa pripisuje A. Leeuwenhoekovi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "text": "Bunkovú teóriu formulovali:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "R. Hooke",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "A. Leeewenhoek",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "M. J. Schleiden",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "L. Pasteur",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "J. E. Purkyně",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "T. Schwann",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "M. Malpighi",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "Ch. L. Treviranus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "text": "Základy novodobej anatómie ľudského tela položil:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "W. Harvey",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Aristoteles",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "R. Hooke",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "J. E. Purkyně",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "A. Vesalius",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "Galenos",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "R. Virchow",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "M. Malpighi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "text": "Medzi fyziologické vedy patria:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "fyziológia človeka",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "fyziológia prvkov",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "histológia",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "embryológia",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "vedy, ktoré študujú funkciu jednotlivých orgánov živých sústav",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "fyziológia živočíchov",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "vedy, ktoré študujú funkciu jednotlivých bunkových orgánel",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "fyziológia rastlín",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "text": "Parazitológia študuje:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "správanie mikroorganizmov",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "cudzopasné organizmy",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "vzťahy živých sústav k prostrediu",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "cudzopasné mikroorganizmy",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "dedičnosť a premenlivosť mikroorganizmov",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "vzťahy medzi hostiteľom a parazitom",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "zárodčný vývoj mikroorganizmov",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "a definuje biologické zákonitosti vzťahov medzi parazitom a hostiteľom",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "text": "Dvojzávitnicovú štruktúru DNA a jej význam pre prenos genetickej informácie objasnili:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "C. Woese",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "v roku 1944",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "v roku 1953",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "F. H. Crick",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "J. G. Mendel",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "v roku 1866",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "J. D. Watson",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "v roku 1966",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "text": "Voda v bunkách má funkciu:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "zásobnú",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "konštrukčnú",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "ako zdroj energie",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "substrátovú - vytvára vhodné prostredie pre chemické deje",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "ako účinné rozpúšťadlo",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "regulačnú - reguluje príjem a výdaj látok bunkou",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "ako dôležitý faktor tepelného hospodárenia",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "ako základná stavebná jednotka makromolekulových látok",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "text": "Monomérom bielkovín sú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "nukleotidy",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "peptidy",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "aminoskupiny",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "atómy uhlíka a dusíka",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "aminokyseliny",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "dusíkaté organické bázy",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "monosacharidy",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "nukleozidy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "text": "Jednotlivé aminokyseliny sú v bielkovinovom reťazci pospájané väzbou:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "esterovou",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "fosfodiesterovou",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "glykozidovou",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "peptidovou",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "vodíkovými mostíkmi",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "peptidovou medzi dusíkatými bázami",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "kovalentnou",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "nekovalentnou",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "text": "Bielkoviny majú funkciu:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "informačnú",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "ako najhospodárnejší zdroj energie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "metabolickú - fibrilárne bielkoviny",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "metabolickú - globulárne bielkoviny",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "mechanickú - fibrilárne bielkoviny",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "mechanickú - globulárne bielkoviny",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "v živočíšnych bunkách hlavne zásobnú",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "štruktúrnu",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "text": "Monomérom nukleových kyselín sú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "aminokyseliny",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "adenín, guanín, tymín, cytozín",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "nukleotidy",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "chromatín",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "dusíkaté bázy",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "nukleozidy",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "ribonukleotidy alebo deoxyribonukleotidy",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "pentózy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "text": "Z chemického hľadiska sú nukleové kyseliny:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "polypeptidy",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "estery vyšších mastných kyslín a glyccrolu",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "polynukleotidy",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "makromolekulové látky",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "biopolyméry",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "pentózy",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "monoméry",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "dlhé reťazce zložené z aminokyselín",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "text": "Lipidy:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "môžu byť súčasťou vitamínov",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "sú súčasťou niektorých hormónov",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "katalyzujú chemické reakcie v bunke",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "sú hlavnou zložkou protilátok",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "sa podieľajú na regulačných procesoch v bunke",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "sú najhospodárnejším zdrojom energie",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "sú súčasťou biomembrán",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "majú ochrannú funkciu, napr. vosky",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "text": "Mikroorganizmy:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sú archeóny",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "sú všetky baktérie",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "študuje mikrobiológia",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "majú mikroskopické rozmery",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "sú onkogénne vírusy",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "sú len eukaryotické organizmy",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "sú jednobunkové organizmy mikroskopických rozmerov",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "sú viditeľné aj voľným okom",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "text": "Medzi prokaryota patria:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "jednobunkové riasy",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "baktérie",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "niektoré mikroorganizmy",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "bakteriofágy",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "bičíkovce",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "archeóny",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "vírusy",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "jednobunkové rastliny",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "text": "Medzi nebunkové organizmy patria:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sinice",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "onkovírusy",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "spirily",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "červené krvinky",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "bakteriofágy",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "spirochéty",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "vírusy",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "molekulárne vnútrobunkové parazity",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "text": "Vírusy sú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "vnútrobunkové parazity",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "nebunkové organizmy",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "mimobunkové parazity",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "nukleoproteínové častice",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "organizmy s jednoduchým metabolizmom",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "bez vlastného metabolizmu",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "prokaryotické organizmy",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "schopné vyvolať infekčné ochorenia",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "text": "Vírusy spôsobujú u človeka:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "besnotu",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "žltačku",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "chrípku",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "kŕvačku a slintačku",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "kiahne",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "tuberkulózu",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "kvapavku",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "Downov syndróm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "text": "Rozmnožovanie vírusov:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "má štyri fázy - profáza, metafáza, anafáza, telofáza",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "má tri fázy",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "prebieha amitózou",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "prebieha len v živých bunkách",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "prebieha len v eukaryotických bunkách",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "prebieha delením",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "prebieha aj mimo bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "môže prebiehať aj v bunkových kultúrach",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "text": "Pôvodcom detskej obrny je:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "vírus",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "bakteriofág",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "nukleoproteínová častica",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "baktéria",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "bacil",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "Salmonella",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "Shigella",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "streptokok",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "text": "Bielkovinový obal vírusu sa nazýva:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "kapsid a je zložený z tukových monomérov",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "cysta",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "puzdro",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "virión",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "bielkovinový plášť",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "spóra",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "nukleoid",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "kapsid",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "text": "Vírusy spôsobujú u človeka:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "syfilis",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "osýpky",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "infekčné ochorenia",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "nádchu",
+          "isCorrect": true
+        },
+        {
+          "id": "e",
+          "text": "herpes simplex",
+          "isCorrect": true
+        },
+        {
+          "id": "f",
+          "text": "zhubné nádory",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "mozaikovú chorobu",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "AIDS",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "text": "Bakteriofág je:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "baktéria so schopnosťou fagocytózy",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "špeciálny makrofág",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "bakteriálny vírus",
+          "isCorrect": true
+        },
+        {
+          "id": "d",
+          "text": "druh baktérie",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "baktéria pohlcujúca vírusy",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "druh vírusu",
+          "isCorrect": true
+        },
+        {
+          "id": "g",
+          "text": "vírus napádajúci baktérie",
+          "isCorrect": true
+        },
+        {
+          "id": "h",
+          "text": "rozmnožovaním viazaný na eukaryotické bunky",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "text": "Každý virión obsahuje:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "bielkovinový kapsid",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "DNA alebo RNA a bielkoviny",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "nukleová kyselina a bielkoviny",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "tukový obal",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "tukový kapsid",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "hlavička a bičík",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "bielkovinový plášť",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "oba typy nukleových kyselín a bielkoviny",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "text": "Vírusy",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "majú jednoduchú prokaryotickú bunku",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "sú najjednoduchšie jednobunkové organizmy",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "sú vnútrobunkové parazity",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "sú zložené z nukleových kyselín a lipidového kapsidu",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "študuje mikrobiológia",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "študuje virológia",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "sú nebuňkové organizmy",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "majú ako prirodzený rezervuar niektoré bezstavovce",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "text": "Vírus chrípky:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "má veľkosť 50 - 80 nm",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "môžeme pozorovať len elektrónovým mikroskopom",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "má kapsid zložený z bielkovinových monomérov",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "môžeme pozorovať optickým mikroskopom",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "má veľkosť 15 - 300 nm",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "má tukový obal",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "má nukleoid zložený z bielkovinových monomérov",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "má nukleokapsid uzavretý v tukovom obale",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "text": "Medzi vírusové ochorenia patrí:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "angína",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "žltačka",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "zápal príušných žliaz",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "zápal mozgových blán",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "tuberkulóza",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "malária",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "mor hydiny",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "ochorenie tabakových listov",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "text": "Rastlinné vírusy:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "obsahujú obvykle RNA molekuly",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "sa nazývajú cyanofágy",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "obsahujú obvykle DNA molekuly",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "nie sú infekčné",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "sa rozmnožujú v siniciach",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "napr. vírus tabakovej mozaiky má dvojvláknovú molekulu RNA",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "spôsobujú rôzne vírusy rastlín",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "sa rozmnožujú v rastlinných bunkách",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "text": "Baktérie:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sú autotrofné alebo heterotrofné",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "majú za optimálnych podmienok generačnú dobu 15 - 30 minút",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "fototrofné sú cyanobaktérie",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "sa rozmnožujú nepriamym bunkovým delením",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "môžu žiť ako saprofyt v pôdach",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "môžu žiť v symbióze s človekom",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "majú v plazmatickej membráne peptidoglykan",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "majú submikroskopické rozmery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "text": "Kokovité baktérie:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "majú bičíky",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "nemajú bičíky",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "nevykonávajú aktívny pohyb",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "vykonávajú aktívny pohyb pomocou bičíka",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "môžu vytvárať súbory buniek strapcovitého charakteru",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "môžu vytvárať súbory buniek retiazkovitého charakteru",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "spôsobujú tuberkulózu",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "sa rozmnožujú nepriamym delením",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "text": "Streptokoky vytvárajú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "strapce",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "dvojice",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "špirály",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "paličky",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "retiazky",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "rozvetvené vláknité štruktúry",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "organické látky len chemosyntézou",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "špecifické rozmnožovacie štruktúry - spóry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "text": "Stafylokoky vytvárajú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "strapce",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "dvojice",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "špirály",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "paličky",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "retiazky",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "rozvetvené vláknité štruktúry",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "organické látky len chemosyntézou",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "špecifické rozmnožovacie štruktúry - spóry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "text": "Baktérie sa rozmnožujú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "väčšinou priečnym delením",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "priamym delením",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "replikáciou",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "väčšinou pozdĺžnym delením",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "nepohlavne",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "nepriammym delením bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "tak, že si dve baktérie vymenia chromozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "aj rozpadom - vláknité baktérie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "text": "Každá baktériálna bunka má:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "bičík",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "ribozómy",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "cytoplazmu",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "nukleoid",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "puzdro",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "schopnosť fotosyntézy",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "bunkovú stenu",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "jeden kruhový chromozóm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "text": "Špirálovito stočené bunky majú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "aktinomycéty",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "rod Streptococcus",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "rod Stafylococcus",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "bacily",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "spirily",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "spirochéty",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "Rhodospirillum rubrum",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "virióny",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "text": "Bakteriálny chromozóm:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "je lineárny",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "je od cytoplazmy oddelený membránou",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "nie je od cytoplazmy ohraničený žiadnou membránou",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "je zložený z chromatínu",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "je pripojený k vnútornej strane cytoplazmatickej membrány",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "má kruhovitý tvar",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "je kruhová dvojreťazcová molekula DNA",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "je pripojený k vnútornej strane jadrovej membrány",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "text": "Medzi živočíšne vírusy patria:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "bakteriofágy",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "vírus mozaiky zemiakov",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "onkovírusy",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "vírus spôsobujúci slintačku a krívačku",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "vírusy spôsobujúce závažné ochorenia človeka",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "onkogénne vírusy",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "vírusy Escherichia coli",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "fág λ",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "text": "V prostredí s obsahom až 20 - 26 % NaCl sú schopné rásť:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "patogénne baktérie",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Halobacterium",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Halococcus",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "termoarchéóny",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "metanoarcheóny",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "Pseudomonas",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "Thermoproteus",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "haloarchéony",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "text": "Archeóny sa odlišujú od baktérií tým, že:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "majú mikroskopické rozmery",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "majú jadro obalené jadrovou membránou",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "sa rozmnožujú priečnym delením",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "v bunkovej stene neobsahujú peptidoglykan",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "žijú vo fyziologicky extrémnych podmienkach",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "sú to jednobunkové organizmy",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "sú to patogénne organizmy",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "nie sú patogénne organizmy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "text": "Význam baktérií v prirodzených ekologických systémoch spočíva v tom, že:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "produkujú do atmosféry kyslík",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "spôsobujú infekčné ochorenia",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "sú schopné žiť vo fyziologicky extrémnych podmienkach",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "rozkladajú odumreté telá rastlín a živočíchov",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "obohacujú pôdu o organické zlúčeniny potrebné k fotosyntéze rastlín",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "zohrávajú nezastupiteľnú úlohu pri cyklickej premene látok v prírode",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "mineralizujú organický materiál",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "pomáhajú pri samočistení vodných tokov",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "text": "Chemoautotrofné baktérie:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "získavajú energiu pomocou chlorofylov",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "využívajú ako primárny zdroj uhlíka CO2",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "sú fotosyntetizujúce prokaryota",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "sú heterotrofné organizmy",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "sú saprofyty",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "získavajú energiu oxidáciou anorganických zlúčenín",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "sú autotrofné organizmy bez pigmentov",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "získavajú energiu redukciou organických látok, napr. glukózy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "text": "Fototrofné prokaryota:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sa považujú za predchodcov chloroplastov rastlín",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "ako zdroj uhlíka využívajú organické zlúčeniny",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "sú sinice",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "sú cyanobaktérie",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "sú saprofyty",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "sú jednobunkové rastliny",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "sú schopné pomocou chlorofylu premieňať svetelnú energiu na chemickú",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "sa využívajú v mliekárentve pri výrobe syrov",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "text": "Patogénne baktérie:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sa rozmnožujú nepriammym delením",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "spôsobujú ochorenia človeka",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "sú schopné žiť vo fyziologicky extrémnych podmienkach",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "spôsobujú ochorenia rastlín",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "spôsobujú ochorenia živočíchov",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "sa rozmnožujú priamym bunkovým delením",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "sa využívajú v mliekárentve pri výrobe syrov, kefírov a jogurtov",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "spôsobujú pohlavné choroby u človeka",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "text": "Baktérie spôsobujú u človeka:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "kvapavku - Treponema pallidum",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "vírusové ochorenia",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "kiahne - Shigella",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "besnotu - Vibrio",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "slintačku - Klebsiella",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "respiračné infekcie - Streptococcus",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "hnačky - Salmonella",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "tuberkulózu - Mycobacterium tuberculosis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "text": "Ktorú z uvedených chorôb nespôsobujú vírusy:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "mozgovú encefalitídu",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "detskú obrnu",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "tuberkulózu",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "kvapavku",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "syfilis",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "chrípku",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "opar",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "besnotu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "text": "Pozitívne vlastnosti baktérií sa využívajú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "pri infekčných chorobách",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "v mliekárenstve pri výrobe syrov a kefírov",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "pri mineralizácii organických zvyškov - pôdne baktérie",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "pri fotosyntéze",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "vo farmaceutickom priemysle",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "v kvasnom priemysle",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "pri ekologických haváriách, napr. kontaminácii pôdy ropnými derivátmi",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "pri chemosyntéze",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "text": "Základné pletivo je v rastline lokalizované:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "na rastovom vrchole stonky",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "na rastovom vrchole koreňa",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "v lykovej časti stoniek",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "v prieduchoch",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "v drevnej časti cievnych zväzkov",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "medzi krycím a vodivým pletivom",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "medzi parenchýmom a kolenchýmom",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "medzi kaulomom a fylomom",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "text": "Podľa spôsobu zhrubnutia bunkovej steny sa pletivá rozdeľujú na:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "krycie, vodivé, základné",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "parenchým, kolenchým, sklerenchým",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "delivé a trváce",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "primárne, latentné, sekundárne",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "pericykel, kambium, felogén",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "kolaterálne, bikolaterálne, koncentrické, radiálne",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "mechanické, zásobné, vylučovacie",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "parenchymatické a mechanické",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "text": "Označte správnu odpoveď:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "parenchým a kolenchým tvoria živé bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "sklerenchým má rovnomerne zhrubnuté bunkové steny",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "bunky sklerenchýmu sú prestúpené plazmodezmami",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "bunky parenchýmu majú na hranách zhrubnuté bunkové steny",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "kolenchým je mechanické pletivo",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "pokožka nadzemných orgánov sa nazýva rizoderma",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "pokožka v koreni rastlín sa nazýva epiderm a",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "prhl'ava dvojdoma má emergencie na ochranu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "text": "Prieduchy:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "sú viacbunkové útvary z podpokožkových buniek",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "môžu byť krycie a žľaznaté",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "tvoria dve zatváravé oblúkovité bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "obsahujú v bunkách chloroplasty",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "zabezpečujú výdaj vody vo forme kvapôčiek",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "zabezpečujú výdaj vody vo forme vodnej pary",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "zabezpečujú príjem CO2",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "sa nachádzajú v rizoderme",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "text": "Hydatódy:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "vylučujú vodu a soli z pokožkových pletív",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "sú trvalo otvorené",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "tvoria dve zatváravé podpokožkové bunky",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "sprostredkúvajú výmenu plynov medzi rastlinou a vonkajším prostredím",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "sú prieduchy, ktoré stratili zatváraciu schopnosť",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "sú trichómy, ktoré stratili zatváraciu schopnosť",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "sú napr. v rizoderme",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "pri nadbytku vodných pár v ovzduší vylučujú vodu a soli z pokožkových pletív",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "text": "Emergencie majú:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "egreš obyčajný",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "muškát",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "pŕhlava dvojdomá",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "mäsožravé rastliny",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "ruža šípová",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "vodné rastliny",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "korene rastlín",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "ochrannú funkciu najmä pred bylinožravými živočíchmi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "text": "V xyléme vedú vodu:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "prieduchy",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "kapiláry",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "sitkovice",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "cievy",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "cievice",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "tracheidy",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "trachey",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "trichómy",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "text": "Sitkovice:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "tvoria živé bunky, ktorých priečne bunkové steny sú perforované",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "tvoria mŕtve bunky s priečnymi priehradkami",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "vedú vodu a v nej rozpustené anorganické látky",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "vedú asimiláty na miesta spotreby",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "vodivú činnosť vykonávajú zväčša jedno až dve vegetačné obdobia",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "sú v xyléme",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "sú vo floéme",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "sú súvislé trubice z pôvodne nad sebou uložených odumretých buniek, ktorým sa priečne priehradky čiastočne alebo úplne rozpadli",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "text": "Transpiračný prúd:",
+      "categoryId": 1,
+      "answers": [
+        {
+          "id": "a",
+          "text": "stúpa drevnou časťou cievnych zväzkov",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "stúpa cievami a/alebo cievicami",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "stúpa lykovou časťou cievnych zväzkov",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "stúpa sitkovicami",
+          "isCorrect": false
+        },
+        {
+          "id": "e",
+          "text": "stúpa od koreňa k listom",
+          "isCorrect": false
+        },
+        {
+          "id": "f",
+          "text": "stúpa základným pletivom",
+          "isCorrect": false
+        },
+        {
+          "id": "g",
+          "text": "stúpa floémom",
+          "isCorrect": false
+        },
+        {
+          "id": "h",
+          "text": "stúpa xylémom",
           "isCorrect": false
         }
       ]
